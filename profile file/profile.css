@@ -1,0 +1,143 @@
+.vh100{
+  height: 500px;
+}
+body{
+  margin-top: -40% !important;
+  /* position: fixed !important; */
+  /* padding-bottom: 100px; */
+  /* margin:  !important; */
+  overflow-y:;
+  background-color: #eef2f5 !important;
+  height: fit-content !important;
+}
+.borderDanger{
+  position: relative;
+  bottom: 655px !important;
+  left: 360px;
+  width: 600px;
+  height: 650px !important;
+}
+.psauto{
+  margin: 10px 400px;
+}
+.section{
+  padding: 7px 100px;
+}
+
+#secDiv{
+  width: 17.6vw !important;
+  padding: 20px;
+}
+
+#smalldiv{
+  height: fit-content;
+  padding: 20px;
+  width: 17.6vw !important;
+}
+
+.manage{
+  color:#055DF5;
+}
+
+#main{
+  height: 600px;
+  padding: 20px;
+}
+
+ul{
+  list-style-type: none;
+}
+ul>li{
+  margin-bottom: 20px;
+  background-color: #055DF5;
+}
+input{
+  outline: none !important;
+  border: none !important;
+}
+.cur{
+  border-radius: 100%;
+  width:  30px;
+  height: 30px;
+  background-color: green;
+}
+
+#logoDiv{
+  margin-top: 50% !important;
+  margin-left: 23% !important;
+}
+
+#design{
+  left: 50px ;
+}
+
+.ben{
+  text-align: left;
+  margin-left: 4px;
+}
+
+.main{
+  border-radius: 100% !important;
+  padding: 5px;
+  color: #5379bb !important;
+  /* width: 100vw !important;
+  height: 100vh !important; */
+}
+
+/* .plus{
+  background-color: rgb(130, 130, 232);
+  border-radius: 100%;
+  align-content: center;
+  height: 20px;
+  width: 20px;
+} */
+
+.curImg{
+  color: black;
+  width: 30px;
+  height: 30px;
+}
+
+.cur1{
+  border-radius: 100%;
+  width: 35px;
+  height: 35px;
+  background-color: white;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2px;
+}
+.cur1>div{
+  background-color: black;
+  border-radius: 100%;
+  width: 7px;
+  height: 7px;
+}
+.hold{
+  border-radius: 30px;
+  
+}
+span{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.flat{
+  background-color: #E6F8EE;
+  padding: 50px 50px;
+}
+.flat>h5{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+}
+
+p{
+  font-family: Arial, Helvetica, sans-serif;
+}
+/*   */
+
+.dpImg{
+  width:55px;
+  height: 45px;
+}
+
